@@ -8,9 +8,11 @@
 </head>
 <body>
     <div class="container">
-        <?php
-            echo "Hello, world";
-        ?>
+        <main class="page">
+            <?php
+                echo "Hello, world";
+            ?>
+        </main>
     </div>
 </body>
 </html>
