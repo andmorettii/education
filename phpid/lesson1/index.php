@@ -9,9 +9,11 @@
 <body>
     <main class="page">
         <div class="page__container">
-            <?php
-                echo "Hello, world";
-            ?>
+            <div class="page__content">
+                <?php
+                    echo "Hello, world";
+                ?>
+            </div>
         </div>
     </main>
 </body>
