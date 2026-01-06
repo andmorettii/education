@@ -7,12 +7,10 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <div class="container">
-        <main class="page">
-            <?php
-                echo "Hello, world";
-            ?>
-        </main>
-    </div>
+    <main class="page">
+        <?php
+            echo "Hello, world";
+        ?>
+    </main>
 </body>
 </html>
