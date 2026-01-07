@@ -9,11 +9,11 @@
 <body>
     <main class="page">
         <div class="page__container">
-            <div class="page__content">
+            <section class="page__content">
                 <?php
                     echo "Hello, world";
                 ?>
-            </div>
+            </section>
         </div>
     </main>
 </body>
