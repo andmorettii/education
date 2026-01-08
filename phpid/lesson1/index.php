@@ -8,13 +8,13 @@
 </head>
 <body>
     <main class="page">
-        <div class="page__container">
+        <section class="content">
             <section class="page__content">
                 <?php
                     echo "Hello, world";
                 ?>
             </section>
-        </div>
+        </section>
     </main>
 </body>
 </html>
