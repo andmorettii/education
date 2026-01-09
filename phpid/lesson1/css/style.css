@@ -6,3 +6,7 @@ body {
 .page {
     background-color: #F9CB99;
 }
+
+.page__content {
+    border: solid #280A3E 1px;
+}
