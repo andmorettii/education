@@ -13,6 +13,9 @@
                 <?php
                     echo "Hello, world";
                 ?>
+                <?php
+                    print "Hello, world";
+                ?>
             </article>
         </section>
     </main>
